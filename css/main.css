@@ -53,3 +53,11 @@ body {
 .robot-head-right {
   left: 50%;
 }
+
+.robot-head-left:hover {
+  right: 55%;
+}
+
+.robot-head-right:hover {
+  left: 55%;
+}
