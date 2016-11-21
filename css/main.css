@@ -22,6 +22,8 @@ body {
 
 .robot {
   width: 320px;
+  display: block;
+  margin: auto;
 }
 
 .robot-body {
